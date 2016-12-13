@@ -1,5 +1,5 @@
 # PicCombiner : 
-# Build:
+## Build:
 ```
 : javac Merge
 : java Merge img1.jpg img2.jpg img3.jpg filename
@@ -7,3 +7,8 @@
       type)
   (all images should be located in the same location as Merge.java file)
 ```
+
+all images should be located in the same location as Merge.java file
+
+## Goal:
+Combine images with the same background into one
